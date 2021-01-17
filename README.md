@@ -1,3 +1,5 @@
+# Nhớ tạo folder src dưới app và mv hết các code không phải config vô như này
+![imgur](https://i.imgur.com/Jp56Rd0.png)
 # Mercee
 
 This project was generated using [Nx](https://nx.dev).
